@@ -47,7 +47,7 @@
   <img align="center" src="https://img.shields.io/badge/-ogrosera-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-rosera-701a48236/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ogrosera-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-joaorosera-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/ogrosera" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-ogrosera-05122A?style=flat&logo=instagram" alt="instagram"/>
