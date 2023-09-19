@@ -3,7 +3,7 @@
 
 - 🔥 Junior Web Developer 
 
-- 🔭 I’m currently studying web developmente at SENAI 
+- 🔭 I’m currently studying web development at SENAI 
 
 - 💬 Knowledge in **JavaScript, HTML, CSS, SQL,**
 
