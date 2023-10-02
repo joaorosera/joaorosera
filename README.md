@@ -1,26 +1,38 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Vitor</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaorosera&color=yellow" alt="Profile views" /> </p>
+## Sup, I'm João Vitor! 😃
 
-- 🔥 Junior Web Developer 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaorosera&color=blue" alt="Profile views" /> </p>
 
-- 🔭 I’m currently studying web development at SENAI 
+- Hey! I'm joão, a 18yo brazilian software developer who's been head over heels for web3 since i turned 17. currently diving into web3 and studying non-stop to become the best version of myself.
+- 🌱 Code and web development enthusiast.
+- 📫 Contact-me at: contato.joaorosera@gmail.com.
 
-- 💬 Knowledge in **JavaScript, HTML, CSS, SQL,**
+  
+## 💻 &nbsp;Work with these stacks
 
-- ⚡ Fun fact **Oneye 😜**
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
 
-<br><br>
+## 🛠 &nbsp;Other stacks
 
-## Contact
+![MySql](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+
+## 📔 &nbsp;Learning more about
+
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
+
+## 🌍 &nbsp;Activities
+<p align="left">
+      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorosera&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+</p>
+
+ ## 👩🏽‍💻 &nbsp; Socials / Contact
 
 <p align="left" style="background:yellow">
-<a href="https://twitter.com/ogrosera" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ogrosera-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-rosera-701a48236/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-joaorosera-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/ogrosera" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-ogrosera-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+  <a href="https://linkedin.com/in/joaorosera" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-joaorosera-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
 </p>
+
