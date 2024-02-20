@@ -9,7 +9,7 @@
   
 ## 💻 &nbsp;Work with these stacks
 
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
