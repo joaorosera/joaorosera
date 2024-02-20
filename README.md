@@ -22,7 +22,6 @@
 ![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![XAMPP](https://img.shields.io/badge/-Xampp-05122A?style=flat&logo=xampp)
-![Wampserver](https://img.shields.io/badge/-Wampserver-05122A?style=flat&logo=wampserver)
 
 ## 📔 &nbsp;Learning more about
 
