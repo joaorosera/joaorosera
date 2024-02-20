@@ -9,7 +9,6 @@
   
 ## 💻 &nbsp;Work with these stacks
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
