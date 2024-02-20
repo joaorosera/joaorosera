@@ -13,7 +13,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=nodejs)
+![Nodejs](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodejs)
 
 ## 🛠 &nbsp;Other stacks
 
