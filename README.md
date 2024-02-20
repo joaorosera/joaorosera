@@ -15,6 +15,7 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![XAMPP](https://img.shields.io/badge/-Xampp-05122A?style=flat&logo=xampp)
 
 ## 🛠 &nbsp;Other stacks
 
