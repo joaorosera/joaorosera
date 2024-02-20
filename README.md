@@ -18,6 +18,7 @@
 ## 🛠 &nbsp;Other stacks
 
 ![MySql](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia)&nbsp;
 
 ## 📔 &nbsp;Learning more about
 
