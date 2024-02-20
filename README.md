@@ -15,13 +15,14 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
-![XAMPP](https://img.shields.io/badge/-Xampp-05122A?style=flat&logo=xampp)
 
 ## 🛠 &nbsp;Other stacks
 
 ![MySql](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![XAMPP](https://img.shields.io/badge/-Xampp-05122A?style=flat&logo=xampp)
+![WampServer](https://img.shields.io/badge/-WampServer-05122A?style=flat&logo=wampserver
 
 ## 📔 &nbsp;Learning more about
 
