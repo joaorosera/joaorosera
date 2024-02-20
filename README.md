@@ -12,7 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
+![Typescript](https://img.shields.io/badge/-file:///C:/Users/Parceiros%20Clean/Downloads/nodedotjs.svg)
 
 ## 🛠 &nbsp;Other stacks
 
