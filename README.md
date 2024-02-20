@@ -8,7 +8,7 @@
 
   
 ## 💻 &nbsp;Work with these stacks
-
+https://img.shields.io/badge/-FLUTTER-02569B?logo=flutter&logoColor=white&style=fot-the-badge
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
