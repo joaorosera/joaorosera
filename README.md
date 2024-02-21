@@ -14,7 +14,6 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express.js)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 
 ## 🛠 &nbsp;Other stacks
