@@ -39,7 +39,7 @@
  ## 👩🏽‍💻 &nbsp; Socials / Contact
 
 <p align="left" style="background:yellow">
-  <a href="https://linkedin.com/in/joaorosera" target="_blank">
+  <a href="https://linkedin.com/in/jvrosera" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-joaorosera-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
 </p>
