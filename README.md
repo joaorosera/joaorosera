@@ -18,6 +18,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=Oracle)
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)
 
 ## 🛠 &nbsp;Other stacks
 
