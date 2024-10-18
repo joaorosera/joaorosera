@@ -42,6 +42,6 @@
 
 <p align="left" style="background:yellow">
   <a href="https://linkedin.com/in/joaovrosera" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-jvrosera-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+    <img align="center" src="https://img.shields.io/badge/-joaovrosera-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
 </p>
