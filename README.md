@@ -12,11 +12,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
-![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)
+<!-- ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript) -->
+<!-- ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) -->
+<!-- ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php) -->
+<!-- ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino) -->
+<!-- ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva) -->
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=Oracle)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)
 
