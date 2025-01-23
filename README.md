@@ -11,7 +11,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Oracle](https://img.shields.io/badge/-Oracledb-05122A?style=flat&logo=Oracledb)
+![Oracle](https://img.shields.io/badge/-OracleDB-05122A?style=flat&logo=OracleDB)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 <!-- ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)-->
 <!-- ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript) -->
