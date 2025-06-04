@@ -25,6 +25,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
@@ -47,7 +51,7 @@
 ## 👩🏽‍💻 &nbsp;Socials / Contact
 
 <p align="left">
-  <a href="https://linkedin.com/in/joaovrosera" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-joaovrosera-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-rosera-26491a364/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-João%20Vitor%20Rosera-05122A?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
