@@ -13,6 +13,7 @@
 ## 💻 &nbsp;Work with these stacks
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
+![Progress](https://img.shields.io/badge/-Progress-05122A?style=flat&logo=progress)&nbsp;
 ![OracleDB](https://img.shields.io/badge/-OracleDB-05122A?style=flat&logo=oracle)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
