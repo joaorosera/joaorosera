@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=joaorosera&color=blue" alt="Profile views" />
 </p>
 
-- Hey! I'm João, a 19yo Brazilian software developer who's been head over heels for coding since I turned 15. Currently diving into backend and studying non-stop to become the best version of myself. Feel free to contact me!
+- Hey! I'm João, a 20yo Brazilian software developer who's been head over heels for coding since I turned 15. Currently diving into backend and studying non-stop to become the best version of myself. Feel free to contact me!
 - 🌱 Code and FPS enthusiast.
 - 📫 Contact me at: contato.joaorosera@gmail.com
 
