@@ -88,8 +88,8 @@ $ ps aux
 $ cat contacts.txt
 
 github   : github.com/joaorosera
-linkedin : linkedin.com/in/SEU-LINKEDIN
-email    : SEU_EMAIL
+linkedin : linkedin.com/in/joão-vitor-rosera
+email    : contato.joaorosera@gmail.com
 ```
 
 ---
