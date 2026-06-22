@@ -1,155 +1,101 @@
-```md
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:220000&height=220&section=header&text=root@joaorosera&fontColor=ff0000&fontSize=42&fontAlignY=40&desc=Technical%20Support%20Analyst%20%7C%20Automation%20%7C%20AI&descAlignY=58&animation=fadeIn"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:000000,100:220000&text=root@joaorosera&fontColor=ff0000&fontSize=40&animation=fadeIn"/>
+# root@joaorosera
 
 ```console
-
 $ whoami
 
 João Rosera
 
 Technical Support Analyst @ TOTVS
 
-$ uname -a
+$ pwd
 
-Automation • Integrations • AI • Datasul
-
+Automation
+Integrations
+AI
+Datasul
 ```
 
 ---
 
-## ~/about
+## about
 
 ```console
+$ cat profile.conf
 
-$ cat profile.txt
+name=João Rosera
+role=Technical Support Analyst
+company=TOTVS
 
-Name........: João Rosera
+languages=Progress OpenEdge, SQL, Python
 
-Role........: Technical Support Analyst
-
-Focus.......: Automation, Integrations and AI
-
-ERP.........: Datasul
-
-Languages...: Progress OpenEdge, SQL, Python
-
-Environment.: Linux, APIs, Git
-
+focus=Automation
+focus=AI Agents
+focus=System Integration
+focus=Internal Tools
 ```
 
 ---
 
-## ~/stack
+## activity
 
-<p align="left">
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaorosera&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000"/>
 
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff0000">
-
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=ff0000">
-
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ff0000">
-
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff0000">
-
-<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=ff0000">
-
-<img src="https://img.shields.io/badge/Datasul-000000?style=for-the-badge&logoColor=ff0000">
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorosera&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000"/>
 </p>
 
 ---
 
-## ~/status
+## contributions
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joaorosera&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=false"/>
+
+---
+
+## stack
 
 ```console
+$ ls stack/
 
-$ systemctl status joao.service
-
-● joao.service - Active
-
-✓ Building automations
-
-✓ Developing integrations
-
-✓ Studying AI Agents
-
-✓ Creating internal tools
-
+Python
+SQL
+Progress OpenEdge
+Datasul
+Linux
+Git
+REST APIs
 ```
 
 ---
 
-## ~/activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=joaorosera&show_icons=true&theme=transparent&hide_border=true&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorosera&layout=compact&theme=transparent&hide_border=true&title_color=ff0000&text_color=ffffff&bg_color=000000"/>
-
-</div>
-
----
-
-## ~/contributions
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joaorosera&bg_color=000000&color=ffffff&line=ff0000&point=ff0000&area=true&hide_border=true">
-
-</div>
-
----
-
-## ~/repositories
+## current projects
 
 ```console
+$ ps aux
 
-$ ls projects/
-
-automation/
-
-integrations/
-
-datasul-tools/
-
-ai-experiments/
-
+[RUNNING] Automation Tools
+[RUNNING] AI Experiments
+[RUNNING] Datasul Utilities
+[RUNNING] System Integrations
 ```
 
 ---
 
-## ~/contact
+## contact
 
 ```console
+$ cat contacts.txt
 
-$ cat contacts.conf
-
-GitHub : github.com/joaorosera
-
-LinkedIn : linkedin.com/in/SEU-LINKEDIN
-
-Email : SEU_EMAIL
-
+github   : github.com/joaorosera
+linkedin : linkedin.com/in/SEU-LINKEDIN
+email    : SEU_EMAIL
 ```
 
 ---
 
-<div align="center">
-
 ```console
-
 root@joaorosera:~$ uptime
 
 learning, building, automating
-
-```
-
-</div>
-
 ```
