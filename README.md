@@ -1,59 +1,155 @@
-## Hey, I'm João Vitor! 😃
+```md
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:220000&height=220&section=header&text=root@joaorosera&fontColor=ff0000&fontSize=42&fontAlignY=40&desc=Technical%20Support%20Analyst%20%7C%20Automation%20%7C%20AI&descAlignY=58&animation=fadeIn"/>
+
+</div>
+
+```console
+
+$ whoami
+
+João Rosera
+
+Technical Support Analyst @ TOTVS
+
+$ uname -a
+
+Automation • Integrations • AI • Datasul
+
+```
+
+---
+
+## ~/about
+
+```console
+
+$ cat profile.txt
+
+Name........: João Rosera
+
+Role........: Technical Support Analyst
+
+Focus.......: Automation, Integrations and AI
+
+ERP.........: Datasul
+
+Languages...: Progress OpenEdge, SQL, Python
+
+Environment.: Linux, APIs, Git
+
+```
+
+---
+
+## ~/stack
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=joaorosera&color=blue" alt="Profile views" />
-</p>
 
-- Hey! I'm João, a 20yo Brazilian software developer who's been head over heels for coding since I turned 15. Currently diving into backend and studying non-stop to become the best version of myself. Feel free to contact me!
-- 🌱 Code and FPS enthusiast.
-- 📫 Contact me at: contato.joaorosera@gmail.com
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff0000">
 
----
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=ff0000">
 
-## 💻 &nbsp;Work with these stacks
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ff0000">
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
-![Progress](https://img.shields.io/badge/-Progress-05122A?style=flat&logo=progress)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azure)&nbsp;
-![OracleDB](https://img.shields.io/badge/-OracleDB-05122A?style=flat&logo=oracle)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff0000">
 
----
+<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=ff0000">
 
-## 🛠 &nbsp;Other stacks
+<img src="https://img.shields.io/badge/Datasul-000000?style=for-the-badge&logoColor=ff0000">
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-
----
-
-## 📔 &nbsp;Learning more about
-
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
-
----
-
-## 🌍 &nbsp;Activities
-
-<p align="left">
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorosera&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </p>
 
 ---
 
-## 👩🏽‍💻 &nbsp;Socials / Contact
+## ~/status
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-rosera-26491a364/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-João%20Vitor%20Rosera-05122A?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+```console
+
+$ systemctl status joao.service
+
+● joao.service - Active
+
+✓ Building automations
+
+✓ Developing integrations
+
+✓ Studying AI Agents
+
+✓ Creating internal tools
+
+```
+
+---
+
+## ~/activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=joaorosera&show_icons=true&theme=transparent&hide_border=true&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorosera&layout=compact&theme=transparent&hide_border=true&title_color=ff0000&text_color=ffffff&bg_color=000000"/>
+
+</div>
+
+---
+
+## ~/contributions
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joaorosera&bg_color=000000&color=ffffff&line=ff0000&point=ff0000&area=true&hide_border=true">
+
+</div>
+
+---
+
+## ~/repositories
+
+```console
+
+$ ls projects/
+
+automation/
+
+integrations/
+
+datasul-tools/
+
+ai-experiments/
+
+```
+
+---
+
+## ~/contact
+
+```console
+
+$ cat contacts.conf
+
+GitHub : github.com/joaorosera
+
+LinkedIn : linkedin.com/in/SEU-LINKEDIN
+
+Email : SEU_EMAIL
+
+```
+
+---
+
+<div align="center">
+
+```console
+
+root@joaorosera:~$ uptime
+
+learning, building, automating
+
+```
+
+</div>
+
+```
