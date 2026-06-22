@@ -1,104 +1,207 @@
+````md
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=root%40joao-vitor%3A~%23+whoami;JOAO+VITOR+%7C+BACKEND+DEV" alt="Typing SVG" />
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=joaorosera&color=ff0000&style=for-the-badge&label=SYSTEM+ACCESSES" alt="Profile views" />
-  </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,30:2B0000,60:8B0000,100:FF0000&text=JOÃO%20VITOR%20ROSERA&fontColor=FFFFFF&fontSize=45&fontAlignY=40&desc=Backend%20Engineer%20%7C%20Systems%20Developer%20%7C%20Technical%20Support%20Analyst&descAlignY=60"/>
+
+# João Vitor Rosera
+
+### Backend Engineering • Enterprise Systems • APIs • Automation • Infrastructure
+
+<p align="center">
+<a href="https://linkedin.com/in/joão-vitor-rosera">
+<img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:contato.joaorosera@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/joaorosera">
+<img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=3000&color=FF0000&center=true&vCenter=true&width=800&lines=Building+reliable+software.;Enterprise+Systems+and+Backend+Solutions.;Automation%2C+APIs+and+Infrastructure.;Continuous+Learning+and+Technical+Evolution."/>
+
 </div>
 
 ---
 
-### `> ./init_system.sh`
+# About Me
+
+I am a Brazilian software developer and Technical Support Analyst at **TOTVS**, focused on enterprise systems, backend development, integrations, automation, databases, and software architecture.
+
+My professional experience combines deep knowledge of corporate environments with practical software engineering skills, allowing me to understand both business processes and technical implementation challenges.
+
+I am continuously improving my expertise through hands-on projects, research, and the development of scalable and maintainable solutions.
+
+---
+
+# Current Focus
 
 ```text
-[ OK ] Booting up profile components...
-[ OK ] Loading /dev/brain dependencies...
-[ OK ] Synchronizing with GitHub servers...
-[INFO] System ready. Welcome, root.
+▰ Enterprise Systems Development
+▰ Backend Engineering
+▰ REST APIs & Integrations
+▰ Process Automation
+▰ Database Performance
+▰ Cloud Technologies
+▰ Software Architecture
+▰ Infrastructure & DevOps Fundamentals
+````
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+## Core Technologies
+
+<img src="https://skillicons.dev/icons?i=java,git,azure,mysql"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Progress_OpenEdge-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-8B0000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+</div>
+
+---
+
+# Secondary Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,python,docker,php,html,css"/>
+
+</div>
+
+---
+
+# Tools & Infrastructure
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Azure-8B0000?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Oracle-8B0000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-8B0000?style=for-the-badge&logo=linux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Automation-FF0000?style=for-the-badge"/>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaorosera&show_icons=true&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=8B0000"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorosera&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=joaorosera&theme=highcontrast&hide_border=true&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF"/>
+
+</div>
+
+---
+
+# Engineering Mindset
+
+```text
+• Build solutions, not complexity.
+• Automate repetitive processes.
+• Design systems for maintainability.
+• Focus on reliability and scalability.
+• Learn continuously and apply consistently.
+• Prioritize performance and business value.
 ```
 
 ---
 
-### `> cat /home/joao/about.md`
+# Projects Philosophy
+
+My projects are driven by practical problem-solving and technical excellence.
+
+The goal is not simply to write code, but to create solutions that are:
+
+✔ Maintainable
+
+✔ Scalable
+
+✔ Reliable
+
+✔ Efficient
+
+✔ Business-Oriented
+
+Every repository represents a step toward deeper expertise in backend engineering, enterprise software, cloud technologies, automation, and systems architecture.
+
+---
+
+# Professional Interests
 
 ```text
-[+] Name: João Vitor
-[+] Age: 20
-[+] Base: Brazil 🇧🇷
-[+] Class: Software Developer
-
-Hey! I'm João, a 20yo Brazilian software developer who's been head over heels 
-for coding since I turned 15. Currently diving into backend and studying 
-non-stop to become the best version of myself. Feel free to contact me!
-
-🌱 Code and FPS enthusiast.
+Backend Engineering
+Enterprise Systems
+Software Architecture
+Cloud Computing
+Automation
+Database Engineering
+API Design
+Infrastructure
+DevOps Culture
+System Integrations
 ```
 
 ---
 
-### `> tree /usr/local/bin/skills/`
+# Connect
 
-```text
-/usr/local/bin/skills/
-├── main_stacks/
-│   ├── Java
-│   ├── Progress
-│   ├── Azure
-│   ├── OracleDB
-│   ├── MySQL
-│   └── Git
-└── other_stacks/
-    ├── React & Next.js
-    ├── TypeScript & JavaScript
-    ├── PHP
-    ├── Python
-    └── Docker & Insomnia
+<div align="center">
+
+<a href="https://linkedin.com/in/joão-vitor-rosera">
+<img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:contato.joaorosera@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=joaorosera&color=ff0000&style=for-the-badge"/>
+
+<br><br>
+
+*"Technology is most valuable when it transforms complexity into clarity."*
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:000000,40:8B0000,100:FF0000"/>
+
+</div>
 ```
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ff0000" alt="Java">&nbsp;
-  <img src="https://img.shields.io/badge/Progress-000000?style=for-the-badge&logo=progress&logoColor=ff0000" alt="Progress">&nbsp;
-  <img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=ff0000" alt="Azure">&nbsp;
-  <img src="https://img.shields.io/badge/OracleDB-000000?style=for-the-badge&logo=oracle&logoColor=ff0000" alt="OracleDB">&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=ff0000" alt="MySQL">&nbsp;
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff0000" alt="Git"><br>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ff0000" alt="React">&nbsp;
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ff0000" alt="Next.js">&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ff0000" alt="TypeScript">&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ff0000" alt="JavaScript">&nbsp;
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=ff0000" alt="PHP">&nbsp;
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff0000" alt="Python">&nbsp;
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=ff0000" alt="Docker">
-</p>
-
----
-
-### `> grep -r "learning" /var/log/`
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ff0000" alt="Java">
-</p>
-
----
-
-### `> ./fetch_system_stats.sh --verbose`
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaorosera&show_icons=true&hide_border=false&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000&border_color=ff0000" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorosera&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000&langs_count=5&layout=compact&border_color=ff0000&hide_border=false" alt="Top Langs" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaorosera&background=000000&border=ff0000&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff0000&sideLabels=ff0000&dates=ffffff&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
-
-### `> ping -c 3 external_nodes`
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-rosera-26491a364/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff0000" alt="LinkedIn" />
-  </a>
-  <a href="mailto:contato.joaorosera@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ff0000" alt="Email" />
-  </a>
-</p>
