@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="www.linkedin.com/in/joão-vitor-rosera-26491a364">
+<a href="www.linkedin.com/in/jvrosera">
 <img src="https://img.shields.io/badge/LINKEDIN-8B0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
